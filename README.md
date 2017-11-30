@@ -1,13 +1,33 @@
-# building-mill-valley-ca-keystone-building
+# The Keystone Building
+82-100 Throckmorton Avenue, Mill Valley, CA 94941
 
-The Keystone building of Mill Valley c.1920
+## Building History
 
-Reference links and images:
+In the 1920s this building (describe the building purpose in 1920)...
+
+- Built: c.tbd
+- Replaced: c.tbd
+- Architect: tbd
+- Library link: tbd
+
+
+## SketchUp Model
+
+- Made by Dylan Garay
+- Model completed: December, 2017
+- Modeled in SketchUp Make 2017
+
+![SketchUp Make 2017 model screenshot]
+(link_to_screenshot)
+
+### Online references & photographs
 * [1920s photo behind Depot](https://archive.org/details/cmlpl_000226)
 * [History notes](https://www.mvhistory.org/wp-content/uploads/2012/10/2011WIH-GBk-v11b.pdf) (Mentions John Rea, excerpt below)
 
-STOP #11 Corner Olive and Lovell
-In 1897, the reverend John Rea, a Congregational minister from Oakland, retired to Mill
+## TimeWalk Images
+![TimeWalk Unity Model](tbd)
+
+Reference links and images:
+* Reference from Mill Valley History Walk: "In 1897, the reverend John Rea, a Congregational minister from Oakland, retired to Mill
 Valley where he became a successful real estate broker and builder (he built the Keystone
-block on Lytton Square and the Congregational Church on Summit Ave.). He founded the
-Congregational Church and served as its first pastor.
+block on Lytton Square and the Congregational Church on Summit Ave.)."
