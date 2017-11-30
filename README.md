@@ -18,7 +18,7 @@ In the 1920s this building (describe the building purpose in 1920)...
 - Modeled in SketchUp Make 2017
 
 ![SketchUp Make 2017 model screenshot]
-(link_to_screenshot)
+(https://github.com/TimeWalkOrg/building-mill-valley-ca-keystone-building/blob/master/keystone-building-1920.jpg)
 
 ### Online references & photographs
 * [1920s photo behind Depot](https://archive.org/details/cmlpl_000226)
