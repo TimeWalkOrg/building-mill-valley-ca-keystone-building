@@ -3,12 +3,12 @@
 
 ## Building History
 
-In the 1920s this building (describe the building purpose in 1920)...
+In 1920 the building housed multiple small shops. These included a drug store and a grocery store. It was considered to be in the center, or the heart of town and was a common meeting place for people. It is right across the street from the train depot and was commonly used as a parking lot.
 
-- Built: c.tbd
-- Replaced: c.tbd
-- Architect: tbd
-- Library link: tbd
+- Built: c.1907
+- Replaced: c.1934 (Into a tudor style building)
+- Architect: Unknown
+- Library link: N/A
 
 
 ## SketchUp Model
