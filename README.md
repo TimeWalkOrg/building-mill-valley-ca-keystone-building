@@ -6,7 +6,7 @@
 In 1920 the building housed multiple small shops. These included a drug store and a grocery store. It was considered to be in the center, or the heart of town and was a common meeting place for people. It is right across the street from the train depot and was commonly used as a parking lot.
 
 - Built: c.1907
-- Replaced: c.1934 (Into a tudor style building)
+- Replaced: c.1934 (into a tudor style building)
 - Architect: Unknown
 - Library link: N/A
 
