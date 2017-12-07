@@ -18,6 +18,7 @@ In 1920 the building housed multiple small shops. These included a drug store an
 - Modeled in SketchUp Make 2017
 
 ![SketchUp Make 2017 model screenshot](https://github.com/TimeWalkOrg/building-mill-valley-ca-keystone-building/blob/master/keystone-building-1920.jpg)
+![Early 1900s photo](https://github.com/TimeWalkOrg/building-mill-valley-ca-keystone-building/blob/master/keystone-building-photo-early-1900s.jpg)
 
 ### Online references & photographs
 * [1920s photo behind Depot](https://archive.org/details/cmlpl_000226)
