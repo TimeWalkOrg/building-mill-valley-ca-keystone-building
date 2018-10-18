@@ -3,18 +3,19 @@
 
 ## Building History
 
-In 1920 the building housed multiple small shops. These included a drug store and a grocery store. It was considered to be in the center, or the heart of town and was a common meeting place for people. It is right across the street from the train depot and was commonly used as a parking lot.
+Built in 1906 by Reverend John Rae, the Keystone Building originally housed several churches (Methodist, Episcopal, Christian Science), shops, post office, and a gas and electric company.
 
-- Built: c.1907
-- Replaced: c.1934 (into a tudor style building)
-- Architect: Unknown
-- Library link: N/A
+In 1920 the Keystone Building housed multiple small shops. These included a drug store and a grocery store. It was considered to be in the center of town and was a common meeting place.  In about 1922, the building was purchased from John Rae’s widow, Catherine P. Rea, by William Kent, Jr., Thos Kent, Thomas Minto, and W.H.R. Norstrand.
+
+-	Built: c. 1906 by Rev. John Rae, minister and land developer
+-	Modifications: Replaced c.1934 by a tudor style building
+-	Architect: Unknown; possibly Robert Roy, see letter in building file
 
 
 ## SketchUp Model
 
 - Made by Dylan Garay
-- Model completed: December, 2017
+- Model completed: December 2017
 - Modeled in SketchUp Make 2017
 
 ![SketchUp Make 2017 model screenshot](https://github.com/TimeWalkOrg/building-mill-valley-ca-keystone-building/blob/master/keystone-building-1920.jpg)
